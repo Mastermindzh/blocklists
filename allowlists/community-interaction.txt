@@ -1,3 +1,4 @@
 # website interaction (social) stuff
 @@||disqus.com^$important
 @@||gravatar.com^$important
+@@||s.shopify.com

@@ -1,2 +1,65 @@
 @@||openai.com^$important
 @@||blog.logrocket.com
+ae01.alicdn.com
+
+# nvidia
+events.gfe.nvidia.com
+gfwsl.geforce.com
+ota-downloads.nvidia.com
+
+# SBS Online videos not playing
+www.sbs.com.au
+sbs.com.au
+api.sbs.com.au
+media.sbs.com.au
+resources.sbs.com.au
+videocdn-sbs.akamaized.net
+sbsvodns-vh.akamaihd.net
+link.theplatform.com
+e7065.e2.akamaiedge.net
+a463.w10.akamai.net
+a790.w16.akamai.net
+
+# URL shorteners
+t.ly
+adf.ly
+www.adf.ly
+bit.ly
+www.bit.ly
+goo.gl
+ow.ly
+www.ow.ly
+amzn.to
+amzn.com
+
+# Xbox Achievements and game stats sync
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+# streamelements.com (Blocked by Pi-hole regex)
+stats.streamelements.com
+
+# Adobe licence verification endpoints
+lm.licenses.adobe.com
+activate.adobe.com
+
+# Others
+
+redirector.gvt1.com
+gravatar.com 
+thetvdb.com 
+themoviedb.com 
+dl.dropboxusercontent.com 
+ns1.dropbox.com 
+ns2.dropbox.com
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+wa.me
+www.wa.me
+cds.s5x3j6q5.hwcdn.net
+settings-win.data.microsoft.com 
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
