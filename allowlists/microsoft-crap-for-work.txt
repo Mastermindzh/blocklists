@@ -1,0 +1,6 @@
+# microsoft crap for work
+@@||office.com
+@@||azureedge.net^
+@@||office.net^
+@@||microsoftonline.com^
+@@||teams.microsoft.com^
