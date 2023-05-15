@@ -1,5 +1,10 @@
+# adguard syntax
 @@||openai.com^$important
 @@||blog.logrocket.com
+@@||k8s.io^
+
+# Others
+
 ae01.alicdn.com
 
 # nvidia
